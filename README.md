@@ -1,4 +1,4 @@
-# Metacrafters-Create-and-Mint-Token-Project
+# Metacrafters: Create and Mint Token Project
 
 This Solidity program demonstrates a custom ERC20 token contract with minting, burning, and transferring functionalities. It serves as an example for creating and managing ERC20 tokens on the Ethereum blockchain, including ownership control and basic validations.
 
